@@ -43,7 +43,7 @@
     <h2>Contacto</h2>
     <p>
       ¿Quieres colaborar o tienes una consulta técnica?<br/>
-      Escríbeme a: <a href="mailto:cgcfusi@ejemplo.com">cgcfusi@ejemplo.com</a>
+      Escríbeme a: <a href="ingprorepairman@gmail.com">ingprorepairman@gmail.com</a>
     </p>
   </section>
 
